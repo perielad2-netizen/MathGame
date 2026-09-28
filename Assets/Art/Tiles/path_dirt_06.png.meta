@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fce62afe8de64aa9bff674c023643486
+guid: a02c77a4e7ea5fed996e95aea3cd6bbb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -45,7 +45,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 96
@@ -109,6 +109,6 @@ TextureImporter:
     nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  userData: tileset
+  userData: tileset-path
   assetBundleName: 
   assetBundleVariant: 
